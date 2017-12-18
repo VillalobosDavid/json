@@ -1,0 +1,28 @@
+[
+{
+	"id": 1,
+	"name": "Patricia",
+	"lastName": "Villalobos",
+	"relationship": "mother"
+}, {
+	"id": 2,
+	"name": "David A.",
+	"lastName": "Villalobos",
+	"relationship": "son/brother"
+}, {
+	"id": 3,
+	"name": "Luis R.",
+	"lastName": "Villalobos",
+	"relationship": "son/brother"
+}, {
+	"id": 4,
+	"name": "Rene E.",
+	"lastName": "Villalobos",
+	"relationship": "son/brother"
+}, {
+	"id": 5,
+	"name": "Miguel J.",
+	"lastName": "Villalobos",
+	"relationship": "son/brother"
+}
+]
