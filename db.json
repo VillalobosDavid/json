@@ -2,30 +2,35 @@
 	"profiles": [
 		{
 			"id": 1,
+			"age": 80,
 			"name": "Patricia",
 			"lastname": "Villalobos",
 			"relationship": "mother"
 		}, 
 		{
 			"id": 2,
+			"age": 54,
 			"name": "David A.",
 			"lastname": "Villalobos",
 			"relationship": "son/brother"
 		}, 
 		{
 			"id": 3,
+			"age": 53,
 			"name": "Luis R.",
 			"lastname": "Villalobos",
 			"relationship": "son/brother"
 		}, 
 		{
 			"id": 4,
+			"age": 55,
 			"name": "Rene E.",
 			"lastname": "Villalobos",
 			"relationship": "son/brother"
 		}, 
 		{
 			"id": 5,
+			"age": 58,
 			"name": "Miguel J.",
 			"lastname": "Villalobos",
 			"relationship": "son/brother"
